@@ -1,6 +1,14 @@
 # Sales_trends_analysis
 The dataset consist of only one-off purchases. 
 
+**Requirements**
+
+**Scikit-learn**
+**Pandas**
+**Numpy**
+**Matplotlib**
+**Seaborn**
+
 1. Sales trends over time:
 
 Time series analysis focused on tracking sales over time and customer purchasing patterns
