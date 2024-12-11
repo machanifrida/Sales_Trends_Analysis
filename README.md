@@ -4,9 +4,13 @@ The dataset consist of only one-off purchases.
 **Requirements**
 
 **Scikit-learn**
+
 **Pandas**
+
 **Numpy**
+
 **Matplotlib**
+
 **Seaborn**
 
 1. Sales trends over time:
